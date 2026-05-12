@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**piyush-ip/piyush-ip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science (AIDS)
+* 💻 Passionate about Python, AI, Web Development, Crypto and Problem Solving
+* 🚀 Building projects and improving development skills consistently
+* 📚 Interested in algorithms, software engineering, and real-world applications
+* ⚡ Focused on learning through practical projects and coding challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack
+
+### Languages
+
+* Python
+* C++
+* JavaScript
+* SQL
+
+### Technologies & Tools
+
+* Git & GitHub
+* VS Code
+* HTML / CSS
+* APIs
+* Data Analysis
+* AI Tools
+
+## Currently Working On
+
+* Python projects
+* Web3 experiments
+* Data Science practice
+* LeetCode and DSA
+* AI-based dashboards and automation
+
+## Connect With Me
+
+* GitHub: https://github.com/piyush-ip
+* LinkedIn: [https://www.linkedin.com/in/piyush-indrale](https://www.linkedin.com/in/piyush-indrale-3637a432a/)
+
+
